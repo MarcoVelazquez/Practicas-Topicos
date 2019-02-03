@@ -1,0 +1,6 @@
+/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Interfaces/bin/Debug/Interfaces.exe
+/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Interfaces/bin/Debug/Interfaces.pdb
+/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Interfaces/obj/x86/Debug/Interfaces.csprojAssemblyReference.cache
+/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Interfaces/obj/x86/Debug/Interfaces.csproj.CoreCompileInputs.cache
+/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Interfaces/obj/x86/Debug/Interfaces.exe
+/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Interfaces/obj/x86/Debug/Interfaces.pdb
