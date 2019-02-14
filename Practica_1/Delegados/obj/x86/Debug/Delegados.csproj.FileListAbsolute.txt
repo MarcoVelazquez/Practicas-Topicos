@@ -1,6 +1,0 @@
-/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Delegados/bin/Debug/Delegados.exe
-/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Delegados/bin/Debug/Delegados.pdb
-/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Delegados/obj/x86/Debug/Delegados.csprojAssemblyReference.cache
-/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Delegados/obj/x86/Debug/Delegados.csproj.CoreCompileInputs.cache
-/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Delegados/obj/x86/Debug/Delegados.exe
-/home/gabpotoldryn/Documentos/Topicos avanzados de programación/Practicas/Practica_1/Delegados/obj/x86/Debug/Delegados.pdb
