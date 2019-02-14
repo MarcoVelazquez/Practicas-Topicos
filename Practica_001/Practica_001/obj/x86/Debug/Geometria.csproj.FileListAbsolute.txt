@@ -1,0 +1,7 @@
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Geometria\bin\Debug\Geometria.exe
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Geometria\bin\Debug\Geometria.pdb
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Geometria\obj\x86\Debug\Geometria.Form1.resources
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Geometria\obj\x86\Debug\Geometria.Properties.Resources.resources
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Geometria\obj\x86\Debug\Geometria.csproj.GenerateResource.Cache
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Geometria\obj\x86\Debug\Geometria.exe
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Geometria\obj\x86\Debug\Geometria.pdb
