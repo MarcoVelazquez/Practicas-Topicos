@@ -5,3 +5,4 @@ C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_001\Practica_
 C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_001\Practica_001\obj\x86\Debug\Practica_001.csproj.GenerateResource.Cache
 C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_001\Practica_001\obj\x86\Debug\Practica_001.exe
 C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_001\Practica_001\obj\x86\Debug\Practica_001.pdb
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_001\Practica_001\obj\x86\Debug\Practica_001.csprojResolveAssemblyReference.cache
