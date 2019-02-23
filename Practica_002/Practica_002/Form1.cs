@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Practica_002
 {
@@ -37,14 +38,14 @@ namespace Practica_002
             Button btn = (Button)sender;
             if (Turno)
             {
-                btn.BackgroundImage = Image.FromFile(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal) + @"\Imagenes\X.jpg");
+                btn.BackgroundImage = Image.FromFile(@"./../../Imagenes/X.PNG");
                 Tab[Convert.ToInt16(btn.Text)] = "x";
                 Turno = false;
                 btn.Text = "";
             }
             else
             {
-                btn.BackgroundImage = Image.FromFile(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal) + @"\Imagenes\Circle.png");
+                btn.BackgroundImage = Image.FromFile(@"./../../Imagenes/O.PNG");
                 Tab[Convert.ToInt16(btn.Text)] = "o";
                 Turno = true;
                 btn.Text = "";
@@ -90,6 +91,17 @@ namespace Practica_002
             Victorioso = true;
             groupBox1.Enabled = false;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         public void Victoria()
         {
             if (Tab[0] == Tab[1] && Tab[1] == Tab[2])
