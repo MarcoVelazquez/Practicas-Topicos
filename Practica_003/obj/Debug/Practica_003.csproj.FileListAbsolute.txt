@@ -1,0 +1,10 @@
+C:\Users\anton\Desktop\Practica_003\bin\Debug\Practica_003.exe.config
+C:\Users\anton\Desktop\Practica_003\bin\Debug\Practica_003.exe
+C:\Users\anton\Desktop\Practica_003\bin\Debug\Practica_003.pdb
+C:\Users\anton\Desktop\Practica_003\obj\Debug\Practica_003.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Practica_003\obj\Debug\Practica_003.Form1.resources
+C:\Users\anton\Desktop\Practica_003\obj\Debug\Practica_003.Properties.Resources.resources
+C:\Users\anton\Desktop\Practica_003\obj\Debug\Practica_003.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Practica_003\obj\Debug\Practica_003.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Practica_003\obj\Debug\Practica_003.exe
+C:\Users\anton\Desktop\Practica_003\obj\Debug\Practica_003.pdb
