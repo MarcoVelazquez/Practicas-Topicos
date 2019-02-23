@@ -1,0 +1,14 @@
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_002\bin\Debug\Practica_002.exe
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_002\bin\Debug\Practica_002.pdb
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_002\obj\x86\Debug\Practica_002.Form1.resources
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_002\obj\x86\Debug\Practica_002.Properties.Resources.resources
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_002\obj\x86\Debug\Practica_002.csproj.GenerateResource.Cache
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_002\obj\x86\Debug\Practica_002.exe
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_002\obj\x86\Debug\Practica_002.pdb
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_002\Practica_002\obj\x86\Debug\Practica_002.exe
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_002\Practica_002\obj\x86\Debug\Practica_002.pdb
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_002\Practica_002\bin\Debug\Practica_002.exe
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_002\Practica_002\bin\Debug\Practica_002.pdb
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_002\Practica_002\obj\x86\Debug\Practica_002.Form1.resources
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_002\Practica_002\obj\x86\Debug\Practica_002.Properties.Resources.resources
+C:\Users\julianjavier\Desktop\Topicos Avanzados\Practicas\Practica_002\Practica_002\obj\x86\Debug\Practica_002.csproj.GenerateResource.Cache
