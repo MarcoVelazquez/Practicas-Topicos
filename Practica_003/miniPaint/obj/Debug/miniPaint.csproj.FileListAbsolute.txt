@@ -1,0 +1,10 @@
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\bin\Debug\miniPaint.exe.config
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\bin\Debug\miniPaint.exe
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\bin\Debug\miniPaint.pdb
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\obj\Debug\miniPaint.csprojAssemblyReference.cache
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\obj\Debug\miniPaint.Properties.Resources.resources
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\obj\Debug\miniPaint.csproj.GenerateResource.cache
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\obj\Debug\miniPaint.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\obj\Debug\miniPaint.exe
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\obj\Debug\miniPaint.pdb
+C:\Users\anton\Documents\Topicos avanzados de programación\Unidad 1\Practica_003\Ejemplo\miniPaint\obj\Debug\miniPaint.GrosorLbl.resources

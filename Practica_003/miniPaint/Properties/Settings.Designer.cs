@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Practica_003.Properties
+namespace miniPaint.Properties
 {
 
 
