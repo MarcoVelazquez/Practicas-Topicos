@@ -263,8 +263,8 @@
             this.Controls.Add(this.SendBtt);
             this.Controls.Add(this.LogBox);
             this.Controls.Add(this.MsgBox);
-            this.Controls.Add(this.ConfigGrpBox);
             this.Controls.Add(this.MenuGrpBox);
+            this.Controls.Add(this.ConfigGrpBox);
             this.Name = "Form1";
             this.Text = "Usuario2";
             this.MenuGrpBox.ResumeLayout(false);

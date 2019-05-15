@@ -1,0 +1,6 @@
+C:\Users\anton\Desktop\Bibliotecas\Matrices\Metodos Numericos\bin\Debug\Metodos Numericos.dll
+C:\Users\anton\Desktop\Bibliotecas\Matrices\Metodos Numericos\bin\Debug\Metodos Numericos.pdb
+C:\Users\anton\Desktop\Bibliotecas\Matrices\Metodos Numericos\obj\Debug\Metodos Numericos.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Bibliotecas\Matrices\Metodos Numericos\obj\Debug\Metodos Numericos.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Bibliotecas\Matrices\Metodos Numericos\obj\Debug\Metodos Numericos.dll
+C:\Users\anton\Desktop\Bibliotecas\Matrices\Metodos Numericos\obj\Debug\Metodos Numericos.pdb

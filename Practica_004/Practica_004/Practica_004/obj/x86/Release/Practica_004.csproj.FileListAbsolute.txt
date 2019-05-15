@@ -1,0 +1,7 @@
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_004\bin\Release\Practica_004.exe
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_004\bin\Release\Practica_004.pdb
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_004\obj\x86\Release\Practica_004.Form1.resources
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_004\obj\x86\Release\Practica_004.Properties.Resources.resources
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_004\obj\x86\Release\Practica_004.csproj.GenerateResource.Cache
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_004\obj\x86\Release\Practica_004.exe
+C:\Users\julianjavier\AppData\Local\Temporary Projects\Practica_004\obj\x86\Release\Practica_004.pdb

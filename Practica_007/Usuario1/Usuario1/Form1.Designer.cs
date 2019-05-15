@@ -166,7 +166,7 @@
             this.UserNameTxtBox.Name = "UserNameTxtBox";
             this.UserNameTxtBox.Size = new System.Drawing.Size(100, 20);
             this.UserNameTxtBox.TabIndex = 10;
-            this.UserNameTxtBox.TextChanged += new System.EventHandler(this.UserNameTxtBox_TextChanged);
+           // this.UserNameTxtBox.TextChanged += new System.EventHandler(this.UserNameTxtBox_TextChanged);
             // 
             // MenuGrpBox
             // 
@@ -229,7 +229,7 @@
             this.EscucharBtt.TabIndex = 0;
             this.EscucharBtt.Text = "Comenzar a escuchar";
             this.EscucharBtt.UseVisualStyleBackColor = true;
-            this.EscucharBtt.Click += new System.EventHandler(this.StartBtt_Click);
+            this.EscucharBtt.Click += new System.EventHandler(this.EscucharBtt_Click);
             // 
             // MsgBox
             // 
@@ -264,8 +264,8 @@
             this.Controls.Add(this.SendBtt);
             this.Controls.Add(this.LogBox);
             this.Controls.Add(this.MsgBox);
-            this.Controls.Add(this.ConfigGrpBox);
             this.Controls.Add(this.MenuGrpBox);
+            this.Controls.Add(this.ConfigGrpBox);
             this.Name = "Form1";
             this.Text = "Usuario1";
             this.ConfigGrpBox.ResumeLayout(false);
